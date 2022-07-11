@@ -1,3 +1,5 @@
 Esse arquivo faz parte do desafio de Git/Github.
 
 Essa linha tem apenas o propóstito de gerar uma nova versão do arquivo.
+
+Temos agora uma terceira linha para o mesmo propósito.
